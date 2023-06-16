@@ -12,6 +12,8 @@ To conveniently preview the 3D models directly within GitHub, simply click on th
 
 I've included STL files for everything. You may need to flip the orientation on a few of them. I try my best to design models that don't require supports. So if you think you need support, make sure you can't flip it to a different orientation. I'll go through and flip things appropriately at some point. At this stage, I'm still trying to get everything together.
 
+Remember that important curves always need to be printed horizontally to avoid a stair-stepping pattern. 
+
 ## Fusion 360 Files
 
 For some models, I have included Fusion 360 files, which can be used with Autodesk's Fusion 360 software. Feel free to customize and adapt these models to meet your needs. Remember, you **MUST** adhere to GPL-3 if you release a modified file.
