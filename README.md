@@ -1,7 +1,11 @@
 # LuthierPrints
 3D Printable files for Luthiers and Guitar Repair Professionals
 
-I've included the Fusion 360 files for the models I could find. 
+If you click the STL file inside this repository, you can view the model directly in GitHub.
+
+I've also included the Fusion 360 files for the models I could find. 
+
+I seem to have misplaced some of my models/prints. I'll add them if I find them.
 
 
 ## License
