@@ -6,9 +6,13 @@ Welcome to LuthierPrints! This repository houses a comprehensive collection of 3
 
 To conveniently preview the 3D models directly within GitHub, simply click on the STL file located in the respective folder (LuthierPrints->Print-Name). Everything is organized into folders.
 
+## Printing the Models
+
+I've included STL files for everything. You may need to flip the orientation on a few of them. I try my best to design models that don't require supports. So if you think you need support, make sure you can't flip it to a different orientation. I'll go through and flip things appropriately at some point. At this stage, I'm still trying to get everything together.
+
 ## Fusion 360 Files
 
-For most models, I have included Fusion 360 files, which can be accessed and modified using Autodesk's Fusion 360 software. Feel free to customize and adapt these models to meet your specific requirements. Remember, you **MUST** adhere to GPL-3.
+For some models, I have included Fusion 360 files, which can be used with Autodesk's Fusion 360 software. Feel free to customize and adapt these models to meet your needs. Remember, you **MUST** adhere to GPL-3 if you release a modified file.
 
 ## Missing Models
 I can't find some of my models. But as I find or recreate them, I'll add them to this repo.
