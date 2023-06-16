@@ -22,7 +22,7 @@ These files are released under the GNU General Public License v3.0 (GPL-3.0). By
   - Include the text of the GPL-3.0 license along with the distributed files.
 
 - **You may not**:
-  - Remove or alter the original copyright notice, license terms, or any other information that identifies the original author(s) of the files.
+  - Remove or alter the original copyleft notice, license terms, or any other information that identifies the original author(s) of the files.
   - Apply additional terms or restrictions beyond what is specified in the GPL-3.0 license.
 
 For more details, please refer to the [LICENSE](LICENSE) file in this repository.
