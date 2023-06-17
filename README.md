@@ -8,13 +8,15 @@ None of these are meant to be pretty. They were all things I needed at one point
 
 ## Viewing the Models
 
-To conveniently preview the 3D models directly within GitHub, simply click on the STL file located in the respective folder (LuthierPrints->Print-Name). Everything is organized into folders.
+To preview the 3D models directly within GitHub, just click on the STL file located in the respective folder (3D-Print-Files -> Print-Name). Everything is organized into folders.
 
 ## Printing the Models
 
 I've included STL files for everything. You may need to flip the orientation on a few of them. I try my best to design models that don't require supports. So if you think you need support, make sure you can't flip it to a different orientation. I'll go through and flip things appropriately at some point. At this stage, I'm still trying to get everything together.
 
 Remember that important curves always need to be printed horizontally to avoid a stair-stepping pattern (on the XY plane). 
+
+Some things were meant to be printed in TPU. Some in harder plastics. Think about your application and decide accordingly.
 
 ## Fusion 360 Files
 
