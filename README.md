@@ -12,7 +12,7 @@ To preview the 3D models directly within GitHub, just click on the STL file loca
 
 ## Printing the Models
 
-I've included STL files for everything. You may need to flip the orientation on a few of them. I try my best to design models that don't require supports. So if you think you need support, make sure you can't flip it to a different orientation. I'll go through and flip things appropriately at some point. At this stage, I'm still trying to get everything together.
+I've included STL files for everything. You may need to flip the orientation on a few of them. I try my best to design models that don't require supports. So if you think you need support, make sure you can't flip it to a different orientation. Off the top of my head, the clamp feet that go around the neck support brace need support in the cutout for the brace-- I think that's all. I'll go through and flip things appropriately at some point. At this stage, I'm still trying to get everything together.
 
 Remember that important curves always need to be printed horizontally to avoid a stair-stepping pattern (on the XY plane). 
 
